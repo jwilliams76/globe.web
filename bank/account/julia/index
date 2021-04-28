@@ -1,0 +1,22 @@
+#header
+text=Account: julia@endermail.com
+
+#navigation
+item-link-1=bank
+item-label-1=Logout
+item-icon-1=LOCK
+
+#header
+text=CC: 7663 8096 5521 0240, Exp: 7/24 CVV: 690 Pin:1507
+align=left
+
+#header
+text=Logs:
+scale=2
+align=left
+
+
+
+#header
+text=Log#1: Statred Account
+align=left

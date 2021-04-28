@@ -1,0 +1,15 @@
+#navigation
+
+item-link-1=globe.web
+
+item-label-1=Go Back
+
+item-icon-1=ARROW_LEFT
+
+
+
+
+
+#paragraph
+
+text=&l&fTeir 1 =  CPU: GT1 Ram: GT1.5 HDD:GT1-1MB OS: OpenOS GPU: GT1G Bios: MineOS EFI Price:$299, &l&eTeir 2 =  CPU: GT2 Ram: GT2.5 HDD:GT2-2MB OS: Plan9k GPU: GT2G Bios: MineOS EFI Price:$699, &l&3Teir 3 =  CPU: GT3 Ram: GT3.5 text=HDD:GT3-4MB OS: MineOS GPU: GT3G Bios: MineOS EFI Price:$799, &l&7Teir 2B = CPU: GT2A Ram: GT2.5 HDD:GT2-2MB OS: OpenOS GPU: GT1Gi Bios: MineOS EFI Price:$399, &l&8Teir 3B = CPU: GT3A Ram: GT2.5 HDD:GT3-4MB OS: Plan9k GPU: GT2Gi text=Bios: MineOS EFI Price: $499, &l&5Teir 3Z = CPU: GT3Z Ram: GTZ HDD:GT3-4MB OS: MineOS GPU: GT3Gi, GT3G Bios: MineOS EFI Price: $1,999, &l&cCustom Built =  CPU: GT3Z, GT3A, GT3, GT2A, GT2, GT1 Ram: GTZ, GT3.5, GT2.5, GT1.5, HDD:GT3-text=4MB, G2T2-2MB, GT1-1MB OS: MineOS, OpenOS, Plan9k, Fuchas GPU: GT3Gi, GT3G, GT2Gi, GT2G, GT1Gi, GT1G Bios: MineOS EFI Price: $299 - $1,999

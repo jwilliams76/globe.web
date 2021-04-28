@@ -1,0 +1,22 @@
+#header
+text=Account: sonic89@endermail.com
+
+#navigation
+item-link-1=bank
+item-label-1=Logout
+item-icon-1=LOCK
+
+#header
+text=CC: 5678 9214 6889 9005, Exp: 9/24 CVV: 853 Pin:6432
+align=left
+
+#header
+text=Logs:
+scale=2
+align=left
+
+
+
+#header
+text=Log#1: Statred Account
+align=left

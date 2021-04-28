@@ -1,0 +1,43 @@
+#header
+
+text=Globe Homepage
+
+
+
+
+
+#navigation
+
+color=-16777216
+
+item-link-1=bank
+
+item-label-1=Globe Bank
+
+item-icon-1=CASH
+
+item-link-2=vps
+
+item-label-2=Globe VPS
+
+item-icon-2=DATABASE
+
+item-link-3=specs
+
+item-label-3=PC Specs
+
+item-icon-3=COMPUTER
+
+item-link-4=support
+
+item-label-4=Support
+
+item-icon-4=CHAT
+
+
+
+
+
+#paragraph
+
+text=Welcome to our home page please click something to get started

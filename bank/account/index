@@ -1,0 +1,20 @@
+#header
+text=Account: Example
+
+#navigation
+item-link-1=bank
+item-label-1=Logout
+item-icon-1=LOCK
+
+CC: N/A Exp: N/A CVV: N/A PIN: N/A
+
+#header
+text=Logs:
+scale=2
+align=left
+
+
+
+#header
+text=Log#1: $100.00 Supermarket (Spent)
+align=left
